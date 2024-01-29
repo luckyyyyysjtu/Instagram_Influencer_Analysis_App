@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-#File Name: twitter.py
-#C1_Group3
-#Name: Xinyi Yang, Yuetian Sun, Yi Guo, Man Luo, Yining Lu
-#Andrew ID: xinyiy2, yuetians, yiguo, manluo, yininglu
 #imported by: driver.py
 
 """
