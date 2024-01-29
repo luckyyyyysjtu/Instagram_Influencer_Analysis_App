@@ -1,7 +1,3 @@
-# File Name: driver.py
-# C1_Group3
-# Name: Xinyi Yang, Yuetian Sun, Yi Guo, Man Luo, Yining Lu
-# Andrew ID: xinyiy2, yuetians, yiguo, manluo, yininglu
 # import from : Ins_Hashtag.py, top_influencer.py, HolidaySuggestion.py, twitter.py
 # imported by: (None)
 
