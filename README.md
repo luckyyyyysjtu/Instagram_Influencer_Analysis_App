@@ -8,7 +8,7 @@ Language: **Python**
 
 ## Functions
 
-- Hashtag suggestions
+- **Hashtag suggestions**
 
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/50cc93b0-9e86-4915-9eb1-14dc9d4c889d)
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/effa3b12-ce9a-4ce6-8ccc-bea3eeba6a39)
@@ -17,7 +17,8 @@ Language: **Python**
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/0c470a81-093d-433b-a8c9-594bdeba99c8)
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/2be4cb27-41c0-430a-80bb-fa9e086d2aa7)
 
-- Top Influencers Profile
+- **Top Influencers Profile**
+- 
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/a70d1b91-a8e8-4bf7-8cfc-b8761595b3aa)
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/24f6f9bf-b105-41a1-8e4b-324b9526e859)
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/3fa4603e-dc2d-4535-94bd-edb1333ea64a)
@@ -25,9 +26,11 @@ Language: **Python**
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/68486ab7-e1fd-40cc-b104-ed3027bbdc8d)
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/acbeb78a-2005-4703-be90-2ac7731e3988)
 
-- Holiday Reminder
+- **Holiday Reminder**
+- 
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/1d74a72d-18a2-439b-8b53-6a5effcb2845)
 
-- Cross-Channel Search (Twitter API)
+- **Cross-Channel Search (Twitter API)**
+- 
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/6f2fb7cf-5540-42c9-a415-eab105a1f5ca)
 ![image](https://github.com/luckyyyyysjtu/Instagram_Influencer_Analysis_App/assets/144955844/a85a508a-2b3a-456d-8411-264af1b90ab6)
