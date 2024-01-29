@@ -1,6 +1,6 @@
 # Instagram Influencer Analysis App
 
-This application is designed for aspiring Instagram influencers seeking to enhance their online presence. Leveraging a combination of Exploratory Data Analysis and Machine Learning, it meticulously analyzes popular hashtags, content trends, optimal posting times, and more from existing Instagram posts. The result is a personalized and real-time recommendation system that guides users on the best topics to engage with, helping them kickstart their journey and providing insights on what to post for increased visibility and follower engagement.
+This application is designed for aspiring Instagram influencers seeking to enhance their online presence. Leveraging a combination of **Exploratory Data Analysis and Machine Learning**, it meticulously analyzes popular hashtags, content trends, optimal posting times, and more from existing Instagram posts. The result is a personalized and real-time recommendation system that guides users on the best topics to engage with, helping them kickstart their journey and providing insights on what to post for increased visibility and follower engagement.
 
 Data extraction from Instagram is accomplished through the use of Selenium. The comprehensive analysis encompasses a diverse set of visualizations, ranging from bar plots, word clouds, and geo plots to scatter plots and clustering outputs. Additionally, it includes statistical averages and textual outputs presented in CSV table files.
 
