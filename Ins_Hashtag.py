@@ -1,7 +1,3 @@
-# File Name: Ins_Hashtag.py
-# C1_Group3
-# Name: Xinyi Yang, Yuetian Sun, Yi Guo, Man Luo, Yining Lu
-# Andrew ID: xinyiy2, yuetians, yiguo, manluo, yininglu
 # import from : (None)
 # imported by: driver.py
 
